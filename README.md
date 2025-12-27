@@ -1,6 +1,6 @@
-# 🎓 LangGraph: The College Student Course
+# 🎓 LangGraph: From Scratch - Divyansh Gangawr
 
-> *citation: Source YouTube Video (Link Placeholder)*
+> *citation: Source YouTube Video [freeCodeCamp.org](https://youtu.be/jGg_1h0qzaM?si=ZPgPyCyK9z2KRHxK)*
 
 Welcome to the **LangGraph Deep Dive**! This repo is designed to take you from "I've heard of AI Agents" to "I can build complex, reasoning, RAG-enabled systems" in 15 lectures.
 
