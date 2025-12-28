@@ -1,4 +1,4 @@
-# 🎓 LangGraph: From Scratch - Divyansh Gangawr
+# 🎓 LangGraph: From Scratch - Divyansh Gangwar
 
 > *citation: Source YouTube Video [freeCodeCamp.org](https://youtu.be/jGg_1h0qzaM?si=ZPgPyCyK9z2KRHxK)*
 
